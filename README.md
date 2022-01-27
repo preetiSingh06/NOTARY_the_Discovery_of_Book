@@ -13,3 +13,4 @@ used will get Document Count and Word Length.
 ![Screenshot (121)](https://user-images.githubusercontent.com/96286863/151321509-ff9edb7e-390f-4659-960b-f2ebd7b930c3.png)
 
 User can also search the occurance of any word.
+![Screenshot (123)_LI](https://user-images.githubusercontent.com/96286863/151322706-25b6d79a-bf36-440a-9c12-c7a7b7e4b9c3.jpg)

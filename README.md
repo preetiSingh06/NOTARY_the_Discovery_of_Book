@@ -9,10 +9,13 @@ This website automatically shows the names and the number of "Most Used Words", 
 
 ###In MOST USED WORDS
 -User will get 5 most occuring words.
+
 ![Screenshot (125)](https://user-images.githubusercontent.com/96286863/151322982-f82a2275-4861-4f7a-9f14-35e6ac125cd6.png)
 
 ####In LEAST USED WORDS 
 -Used will get 5 least occuring words.
+
+![Screenshot (124)](https://user-images.githubusercontent.com/96286863/151323016-4f00b5d2-282e-4b0b-a300-77df78d891b2.png)
 
 ####In DOCUMENT STATS
 -User will get Document Count and Word Length.

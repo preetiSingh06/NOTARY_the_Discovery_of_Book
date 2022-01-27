@@ -7,8 +7,15 @@ I developed a web platform where user can read any book free of cost. All those 
 This website automatically shows the names and the number of "Most Used Words", "Least Used Words" and "Document stats".
 ![Screenshot (120)](https://user-images.githubusercontent.com/96286863/151321278-5df6ced1-bf30-4901-8bd1-25becf84ebd4.png)
 
-###In DOCUMENT STATS
-used will get Document Count and Word Length.
+###In MOST USED WORDS
+-User will get 5 most occuring words.
+![Screenshot (125)](https://user-images.githubusercontent.com/96286863/151322982-f82a2275-4861-4f7a-9f14-35e6ac125cd6.png)
+
+####In LEAST USED WORDS 
+-Used will get 5 least occuring words.
+
+####In DOCUMENT STATS
+-User will get Document Count and Word Length.
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/96286863/151321509-ff9edb7e-390f-4659-960b-f2ebd7b930c3.png)
 
